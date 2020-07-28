@@ -1,0 +1,13 @@
+
+v
+java:S1192"TDefine a constant instead of duplicating this literal "The cat in the hat." 4 times.(úáÿûÿÿÿÿ8ëˆ¹.
+=
+java:S2129	" Remove this "String" constructor(Ó¤È8ÑÂÙˆ¹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯†£æüÿÿÿÿ8ëˆ¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷š•Ù8ÑÂÙˆ¹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úáÿûÿÿÿÿ8ÑÂÙˆ¹.
+X	java:S125"<This block of commented-out lines of code should be removed.(·›æû8íùˆ¹.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷şÅn
+9
+java:S1643"Use a StringBuilder instead.(Ù’‡8œòâˆ¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¢ï8ÅÜõˆ¹.

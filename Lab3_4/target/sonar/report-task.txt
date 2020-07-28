@@ -1,0 +1,6 @@
+projectKey=JavaStudy
+serverUrl=http://51.158.124.53:9000
+serverVersion=8.4.1.35646
+dashboardUrl=http://51.158.124.53:9000/dashboard?id=JavaStudy
+ceTaskId=AXORKOrd0iry-WjdvF0d
+ceTaskUrl=http://51.158.124.53:9000/api/ce/task?id=AXORKOrd0iry-WjdvF0d

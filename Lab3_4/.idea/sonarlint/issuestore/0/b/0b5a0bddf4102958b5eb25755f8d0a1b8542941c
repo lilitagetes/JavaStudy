@@ -1,0 +1,12 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³û”Ê8ª…İ‡¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³û”Ê8»°ö‡¹.
+g
+java:S1192"JDefine a constant instead of duplicating this literal "Withdraw " 3 times.(³û”Ê8»°ö‡¹.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(‡‹İè8óÓá‡¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íá×8ãÏ‡¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ñõí8ŒÍå‡¹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Íõìüÿÿÿÿ8ß©É‡¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³û”Ê8ºÒ‡¹.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ê»Üÿÿÿÿÿ8›È‡¹.
